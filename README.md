@@ -1,16 +1,26 @@
-### Hey! Eu sou o Vini.
+### Hey, listen!
 
-- 📝 Hoje me divirto com HTML e CSS. <i>Codar</i> é <b>muito</b> divertido para mim. ❤️
-- 💻 Estudando e praticando HTML, CSS e JavaScript, apesar de na faculdade de Analise e Desenvolvimento de Sistemas ter absorvido um bocado de C++ e C#.
-- 🎮 Pronouns: ele/dele
+- 📝 Atualmente me divirto muito programando em HTML e CSS. Para mim, codificar é uma atividade muito prazerosa.
+- 💻 Estou dedicando meu tempo a estudar e praticar HTML, CSS e JavaScript, embora na faculdade de Análise e Desenvolvimento de Sistemas tenha aprendido bastante sobre C++ e C#.
+- 🎮 Meus pronomes são ele/dele.
 <br>
 <div>
   <a href="https://github.com/vasijess">
 
-  <picture>
-  <source srcset="https://github-readme-stats.vercel.app/api?username=vasijess&show_icons=true&theme=vision-friendly-dark" media="(prefers-color-scheme: dark)">
-  <source srcset="https://github-readme-stats.vercel.app/api?username=vasijess&show_icons=true" media="(prefers-color-scheme: vision-friendly-dark), (prefers-color-scheme: no-preference)">
-  <img src="https://github-readme-stats.vercel.app/api?username=vasijess&show_icons=true" />
+<div style="display: flex; flex-direction: row;">
+  <div style="flex: 1;">
+    <picture>
+      <source srcset="https://github-readme-stats.vercel.app/api?username=vasijess&show_icons=true&theme=vision-friendly-dark" media="(prefers-color-scheme: dark)">
+      <source srcset="https://github-readme-stats.vercel.app/api?username=vasijess&show_icons=true" media="(prefers-color-scheme: vision-friendly-dark), (prefers-color-scheme: no-preference)">
+      <img src="https://github-readme-stats.vercel.app/api?username=vasijess&show_icons=true" />
+    </picture>
+  </div>
+  <div style="flex: 1;">
+    <picture>
+      <!-- Outra imagem/código aqui -->
+    </picture>
+  </div>
+</div>
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vasijess&progress=true&layout=compact&theme=vision-friendly-dark)](https://github.com/vasijess/github-readme-stats)
   </div>
